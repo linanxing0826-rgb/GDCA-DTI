@@ -1,0 +1,26 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 模型权重、大参数文件
+*.pth
+*.pt
+*.ckpt
+
+# 压缩包
+*.zip
+*.rar
+*.7z
+
+# 实验输出、中间结果
+checkpoints*/
+real_pdb_analysis_results/
+*.png
+*.jpg
+*.svg
+
+# 系统文件
+.DS_Store
+Thumbs.db
